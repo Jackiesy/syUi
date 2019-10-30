@@ -29,10 +29,10 @@ module.exports = {
     // externals: {  // 外部的库,外部库,部署的时候才加
     //     "react": {
     //         commonjs: "react",
-    //         commonjs2: "react",
     //         root: "React"
     //     },
     //     "react-dom": {
+    //         commonjs2: "react",
     //         commonjs: "react-dom",
     //         commonjs2: "react-dom",
     //         amd: "react-dom",
